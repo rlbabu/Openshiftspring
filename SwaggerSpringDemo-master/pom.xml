@@ -92,7 +92,7 @@
 						</goals>
 						<configuration>
 							<inputSpec>
-								${project.basedir}/src/main/resources/openapi1.yml
+								${project.basedir}/src/main/resources/openapi2.yml
 							</inputSpec>
 							<generatorName>spring</generatorName>
 							<apiPackage>io.tej.SwaggerCodgen.api</apiPackage>
