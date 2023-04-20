@@ -1,9 +1,10 @@
 package io.tej.SwaggerSpringDemo;
 
-import io.tej.SwaggerCodgen.api.BookApi;
-import io.tej.SwaggerCodgen.model.Book;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RestController;
+
+import io.tej.SwaggerCodgen.api.BookApi;
+import io.tej.SwaggerCodgen.model.Book;
 
 import java.util.ArrayList;
 import java.util.List;
